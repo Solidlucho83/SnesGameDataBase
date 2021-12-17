@@ -1,4 +1,4 @@
-# SnesGameDataBase
+#El Cerebro de la Bestia : SnesGameDataBase
 Aplicación Android Kotlin.
 Base de datos de Juegos de Snes con links a Wikipedia.
 Librerías utilizadas: Navigation Component, ReciclerView, Fragment, Glide.
