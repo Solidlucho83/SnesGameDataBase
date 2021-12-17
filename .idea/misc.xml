@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Solidlucho/AndroidStudioProjects/SnesGameDataBase/app/src/main/res/layout/fragment_list_games.xml" value="0.1" />
+        <entry key="..\:/Users/Solidlucho/AndroidStudioProjects/SnesGameDataBase/app/src/main/res/layout/fragment_wikipedia.xml" value="0.10182370820668693" />
+        <entry key="..\:/Users/Solidlucho/AndroidStudioProjects/SnesGameDataBase/app/src/main/res/layout/snes_games_list.xml" value="0.1" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/SnesGamesList/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1125" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/SnesGamesList/app/src/main/res/drawable/ic_baseline_broken_image_24.xml" value="0.1125" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/SnesGamesList/app/src/main/res/drawable/ic_baseline_open_in_browser_24.xml" value="0.1125" />

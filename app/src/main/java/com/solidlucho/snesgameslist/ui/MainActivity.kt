@@ -1,7 +1,8 @@
-package com.solidlucho.snesgameslist
+package com.solidlucho.snesgameslist.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.solidlucho.snesgameslist.R
 
 
 class MainActivity : AppCompatActivity() {

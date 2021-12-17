@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/listGamesFragment"
-        android:name="com.solidlucho.snesgameslist.ListGamesFragment"
+        android:name="com.solidlucho.snesgameslist.ui.ListGamesFragment"
         android:label="fragment_list_games"
         tools:layout="@layout/fragment_list_games" >
         <action
@@ -21,12 +21,12 @@
     </fragment>
     <fragment
         android:id="@+id/zoomCoverFragment"
-        android:name="com.solidlucho.snesgameslist.ZoomCoverFragment"
+        android:name="com.solidlucho.snesgameslist.ui.ZoomCoverFragment"
         android:label="fragment_zoom_cover"
         tools:layout="@layout/fragment_zoom_cover" />
     <fragment
         android:id="@+id/wikipediaFragment"
-        android:name="com.solidlucho.snesgameslist.WikipediaFragment"
+        android:name="com.solidlucho.snesgameslist.ui.WikipediaFragment"
         android:label="fragment_wikipedia"
         tools:layout="@layout/fragment_wikipedia" />
 </navigation>
