@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/listGamesFragment">
+
+    <fragment
+        android:id="@+id/listGamesFragment"
+        android:name="com.solidlucho.snesgameslist.ListGamesFragment"
+        android:label="fragment_list_games"
+        tools:layout="@layout/fragment_list_games" >
+        <action
+            android:id="@+id/action_listGamesFragment_to_zoomCoverFragment2"
+            app:destination="@id/zoomCoverFragment"
+            app:enterAnim="@anim/slide_in" />
+        <action
+            android:id="@+id/action_listGamesFragment_to_wikipediaFragment"
+            app:destination="@id/wikipediaFragment"
+            app:enterAnim="@anim/slide_in" />
+    </fragment>
+    <fragment
+        android:id="@+id/zoomCoverFragment"
+        android:name="com.solidlucho.snesgameslist.ZoomCoverFragment"
+        android:label="fragment_zoom_cover"
+        tools:layout="@layout/fragment_zoom_cover" />
+    <fragment
+        android:id="@+id/wikipediaFragment"
+        android:name="com.solidlucho.snesgameslist.WikipediaFragment"
+        android:label="fragment_wikipedia"
+        tools:layout="@layout/fragment_wikipedia" />
+</navigation>
