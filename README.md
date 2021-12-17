@@ -1,5 +1,5 @@
 # SnesGameDataBase
-Aplicacion Android Kotlin.
+Aplicación Android Kotlin.
 Base de datos de Juegos de Snes con links a Wikipedia.
 Librerias utilizadas: Navigation Component, ReciclerView, Fragment, Glide.
 
