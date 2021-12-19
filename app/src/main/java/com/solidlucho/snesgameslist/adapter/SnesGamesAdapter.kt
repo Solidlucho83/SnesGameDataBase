@@ -44,7 +44,7 @@ class SnesGamesAdapter(val snesgames: List<Model>, val onClick: click) :
             Glide.with(binding.imCover)
                 .load(model.image)
                 .diskCacheStrategy(DiskCacheStrategy.ALL)
-                .placeholder(R.drawable.ic_baseline_cloud_download_24)
+                .placeholder(R.drawable.progress_animation)
                 .error(R.drawable.ic_baseline_broken_image_24)
                 .into(binding.imCover)
             binding.imCover.setOnClickListener { onClick.onImageClick(model.image) }

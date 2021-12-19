@@ -70,6 +70,7 @@
                         android:backgroundTint="#D0D0DC"
                         android:contentDescription="@string/wikipedia"
                         android:scaleType="centerCrop"
+
                         card_view:srcCompat="@drawable/ic_wikipedia_com"
                         tools:ignore="SpeakableTextPresentCheck" />
                 </LinearLayout>

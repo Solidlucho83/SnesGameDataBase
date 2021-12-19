@@ -8,4 +8,6 @@
     <string name="cover">COVER</string>
     <string name="wikipedia">wikipedia</string>
     <string name="search">search</string>
+    <string name="Buscar">Buscar…</string>
+    <string name="clear">clear</string>
 </resources>

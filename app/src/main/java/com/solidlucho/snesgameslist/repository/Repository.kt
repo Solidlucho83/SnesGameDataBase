@@ -518,6 +518,6 @@ class Repository {
 
 
     )
-
+    var customersList = ArrayList<Model>()
 
 }
