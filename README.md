@@ -2,6 +2,7 @@
 ## SnesGameDataBase
 
 Base de datos de Juegos de Snes con links a Wikipedia.
+Kotlin 1.5
 Librerías utilizadas: Navigation Component, ReciclerView, Fragment, Glide.
 
 ## Tegnologías usadas:
